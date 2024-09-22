@@ -1,0 +1,27 @@
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\appsettings.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\companies.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\mydata.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\Mc Petya.exe
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\Mc Petya.deps.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\Mc Petya.runtimeconfig.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\Mc Petya.dll
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\bin\Debug\net8.0\Mc Petya.pdb
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.AssemblyInfoInputs.cache
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.AssemblyInfo.cs
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.csproj.CoreCompileInputs.cache
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\staticwebassets\msbuild.Mc Petya.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\staticwebassets\msbuild.build.Mc Petya.props
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mc Petya.props
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mc Petya.props
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\scopedcss\bundle\Mc Petya.styles.css
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.dll
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\refint\Mc Petya.dll
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.pdb
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\Mc Petya.genruntimeconfig.cache
+C:\Users\rregi\source\repos\Mc Petya\Mc Petya\obj\Debug\net8.0\ref\Mc Petya.dll
