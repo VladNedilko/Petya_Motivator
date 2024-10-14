@@ -1,0 +1,38 @@
+﻿@model StateLoggingApp.Models.FormModel
+
+@{
+    ViewData["Title"] = "Форма для зберігання значення та дати";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Форма для введення значення та дати -->
+<form method="post" asp-controller="Home" asp-action="Index">
+    <div>
+        <label for="Value">Значення:</label>
+        <input type="text" id="Value" name="Value" value="@Model.Value" required />
+    </div>
+    <br />
+    <div>
+        <label for="ExpiryDate">Дата та час (для встановлення терміну дії Cookies):</label>
+        <input type="datetime-local" id="ExpiryDate" name="ExpiryDate" value="@Model.ExpiryDate.ToString("yyyy-MM-ddTHH:mm")" required />
+    </div>
+    <br />
+    <div>
+        <button type="submit">Відправити</button>
+    </div>
+</form>
+
+<!-- Виведення помилок моделі (якщо є) -->
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color: red;">
+        <h4>Помилки в формі:</h4>
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}

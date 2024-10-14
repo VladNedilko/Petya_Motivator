@@ -1,0 +1,11 @@
+﻿@model StateLoggingApp.Models.FormModel
+
+<form method="post" asp-controller="Home" asp-action="Index">
+    <label for="Value">Значення:</label>
+    <input type="text" id="Value" name="Value" required />
+    <br />
+    <label for="ExpiryDate">Дата та час:</label>
+    <input type="datetime-local" id="ExpiryDate" name="ExpiryDate" required />
+    <br />
+    <button type="submit">Відправити</button>
+</form>

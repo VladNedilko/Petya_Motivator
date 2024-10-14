@@ -1,0 +1,16 @@
+﻿@model StateLoggingApp.Models.CheckCookiesModel
+
+@{
+    ViewData["Title"] = "Перевірка Cookies";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (!string.IsNullOrEmpty(Model.CookieValue))
+{
+    <p>Збережене значення в Cookies: <strong>@Model.CookieValue</strong></p>
+}
+else
+{
+    <p>Cookies не знайдено або термін дії Cookies завершився.</p>
+}
