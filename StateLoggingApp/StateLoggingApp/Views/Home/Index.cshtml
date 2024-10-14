@@ -6,7 +6,6 @@
 
 <h2>@ViewData["Title"]</h2>
 
-<!-- Форма для введення значення та дати -->
 <form method="post" asp-controller="Home" asp-action="Index">
     <div>
         <label for="Value">Значення:</label>
@@ -23,7 +22,6 @@
     </div>
 </form>
 
-<!-- Виведення помилок моделі (якщо є) -->
 @if (!ViewData.ModelState.IsValid)
 {
     <div style="color: red;">
