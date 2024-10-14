@@ -4,12 +4,9 @@ using StateLoggingApp.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Додаємо сервіси для MVC
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
-
-// Використовуємо middleware для логування помилок
 app.UseMiddleware<ErrorLoggingMiddleware>();
 
 app.UseRouting();
