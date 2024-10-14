@@ -22,10 +22,9 @@ namespace StateLoggingApp.Middleware
             }
             catch (Exception ex)
             {
-                // Логування помилки у файл
                 var logFilePath = "error_log.txt";
                 await File.AppendAllTextAsync(logFilePath, $"[{DateTime.Now}] - Error: {ex.Message}{Environment.NewLine}");
-                throw; // Продовжити обробку помилки
+                throw; 
             }
         }
     }
